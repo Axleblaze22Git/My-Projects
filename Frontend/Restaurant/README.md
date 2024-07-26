@@ -51,6 +51,28 @@ export default {
 
 - next we will have the expertise section.
 
+- next we will have the reviews section.
 
+- next we willa dd the contact section
 
+- last section will be the footer section that will show the social media icons and copyright text.
 
+thus all the components of the website is created now we will add the animations
+
+## Steps to add animations:
+
+- first install framer motion using the command `npm install framer-motion`
+
+- lets start with the hero section.add motion to the image tag.reload the page to see the animation in action where in the logo of Restaura will be animated and will appear to arise from the bottom.
+
+- after this lets add animation to the about section. add motion to the h2 tag and the div under it
+
+- after this lets add animation to the mission section. add motion to the video tag.
+
+- after this lets add animation to the expertise section. add motion to the div tags.
+
+- after this lets add animation to the reviews section. add motion.
+
+Thus we are done with the animations
+
+now lets see how to deploy this website.
